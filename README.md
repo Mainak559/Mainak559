@@ -19,13 +19,11 @@ Here are some ideas to get you started:
 <!-- [![Mainak's GitHub stats](https://github-readme-stats.vercel.app/api?username=mainak559)](https://github.com/mainak559/github-readme-stats) -->
 
 
-
-
 # 💫 About Me:
 -👩🏻‍💻 Working as a software engineer over at [Nagarro](https://www.nagarro.com/en)<br>- 🔭 I’m currently working on Java , SpringBoot and React JS<br>- 👯 I’m looking to collaborate on web dev projects<br>-  💬 Ask me about  DSA and Web development <br>- 📫 How to reach me: [:email:](mailto:mainakhalder.personal@gmail.com) <br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact:  I love sports :soccer: and playing video games :video_game:
 
 
-## 🌐 Coneect with me:
+## 🌐 Connect with me:
 <a href="https://www.linkedin.com/in/mhldr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjyo851" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/mainakhalder8018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arjyo851" height="30" width="40" /></a>
 <a href="https://leetcode.com/mainakhalder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjyo851" height="30" width="40" /></a>
@@ -40,7 +38,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mainak559&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mainak559&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mainak559&theme=monokai&no-frame=false&no-bg=true&margin-w=4) 
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -48,7 +46,9 @@ Here are some ideas to get you started:
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mainak559&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
+Profile views: ![](https://komarev.com/ghpvc/?username=mainak559)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=mainak559&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
